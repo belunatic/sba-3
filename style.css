@@ -15,6 +15,10 @@ p {
 	line-height: 140%;
 }
 
+.card {
+	box-shadow: 34px 41px 40px hsl(0, 0%, 81%);
+}
+
 .card-avatar-image {
 	width: 32px;
 	height: 32px;
@@ -43,6 +47,8 @@ p {
 .attribution {
 	font-size: 11px;
 	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 10px;
 }
 .attribution a {
 	color: hsl(228, 45%, 44%);
