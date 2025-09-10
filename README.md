@@ -2,7 +2,7 @@
 
 ## Overview
 
-The challenge is to take the given design and code it using Bootstrap Framework. (Testimonials grid section)[https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7]
+The challenge is to take the given design and code it using Bootstrap Framework. [Testimonials grid section challenge](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7)
 
 ## Approach
 
